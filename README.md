@@ -1,1 +1,1 @@
-# NacosTest
+# Naco的测试项目，用来进行nacos使用的学习和测试，主要是nacos的配置管理和服务注册功能。
